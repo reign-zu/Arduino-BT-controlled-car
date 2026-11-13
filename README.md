@@ -2,8 +2,8 @@
 
 ![Diagram](Arduino-BT.png)
 
-[![Download diagram](https://img.shields.io/badge/Download-Wiring%20Diagram-green?style=for-the-badge)](https://github.com/USER/REPO/raw/main/Arduino-BT.png)
-[![Download diagram](https://img.shields.io/badge/Download-Code-purple?style=for-the-badge)](https://github.com/USER/REPO/raw/main/Arduino-Code.ino)
+[![Download diagram](https://img.shields.io/badge/Download-Photo%20Diagram-green?style=for-the-badge)](https://github.com/reign-zu/Arduino-BT-controlled-car/raw/main/Arduino-BT.png)
+[![Download project](https://img.shields.io/badge/Download-Project(Code%20&%20photo)-purple?style=for-the-badge)](https://github.com/reign-zu/Arduino-BT-controlled-car/archive/refs/heads/main.zip)
 
 ## Wiring
 
